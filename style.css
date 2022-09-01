@@ -1,0 +1,6 @@
+body {
+    /* background: linear-gradient(110deg, blue 60%, red 40%); */
+    background: linear-gradient(50deg, #fdcd3b 50%, #ffed4b 50%)  center no-repeat;
+    height: 960px;
+
+}
